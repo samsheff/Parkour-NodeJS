@@ -1,0 +1,7 @@
+# npm modules
+node_modules/
+
+# Vim Artifacts
+*.swp
+*.swo
+.ctrlp_cache/
